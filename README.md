@@ -4,23 +4,23 @@
 
 # Технологии и инструменты
 
-Backend: ASP.NET Core (C#)
-Аутентификация: JWT (JSON Web Tokens)
-База данных: PostgreSQL
-API: REST API (+ Swagger)
-Frontend: React + TypeScript(v3) + Axios + Vite
-Стилизация: Tailwind CSS
+- Backend: ASP.NET Core (C#)
+- Аутентификация: JWT (JSON Web Tokens)
+- База данных: PostgreSQL
+- API: REST API (+ Swagger)
+- Frontend: React + TypeScript(v3) + Axios + Vite
+- Стилизация: Tailwind CSS
 
 # Подготовка к запуску
 
 Backend:
-В app.settings, в строке подключения, указать актуальные данные для подключения к СУБД;
-В консоле, выбрав среду DataAccess, ввести команду: Update-Database;
+- В app.settings, в строке подключения, указать актуальные данные для подключения к СУБД;
+- В консоле, выбрав среду DataAccess, ввести команду: Update-Database;
 
 Frontend:
-cd ../frontend
-npm install
-npm start
+- cd ../frontend
+- npm install
+- npm start
 
 # Демонстрация приложения
 
