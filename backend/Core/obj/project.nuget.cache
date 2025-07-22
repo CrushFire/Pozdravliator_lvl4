@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L35Xz8dM+vA=",
+  "success": true,
+  "projectFilePath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CrushFire\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\CrushFire\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

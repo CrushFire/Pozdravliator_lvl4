@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pozdravliator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pozdravliator.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg",
+      "PackagePath": "staticwebassets\\images\\4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg",
+      "PackagePath": "staticwebassets\\images\\671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\6db5c089-c83a-44a8-be69-6105d12312bd.jpg",
+      "PackagePath": "staticwebassets\\images\\6db5c089-c83a-44a8-be69-6105d12312bd.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\79e0e847-f017-4454-b86f-a21a643b02ef.jpg",
+      "PackagePath": "staticwebassets\\images\\79e0e847-f017-4454-b86f-a21a643b02ef.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg",
+      "PackagePath": "staticwebassets\\images\\9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg",
+      "PackagePath": "staticwebassets\\images\\b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg",
+      "PackagePath": "staticwebassets\\images\\c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\df031cda-8643-4042-b3fe-76bae98ceb87.jpg",
+      "PackagePath": "staticwebassets\\images\\df031cda-8643-4042-b3fe-76bae98ceb87.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg",
+      "PackagePath": "staticwebassets\\images\\e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pozdravliator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pozdravliator.props",
+      "PackagePath": "build\\Pozdravliator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pozdravliator.props",
+      "PackagePath": "buildMultiTargeting\\Pozdravliator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pozdravliator.props",
+      "PackagePath": "buildTransitive\\Pozdravliator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
