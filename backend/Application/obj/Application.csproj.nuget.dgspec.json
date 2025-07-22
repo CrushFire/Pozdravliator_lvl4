@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj": {}
+    "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj": {
+    "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj",
+        "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\CrushFire\\.nuget\\packages\\",
-        "outputPath": "D:\\CrushFire\\Pozdravliator\\backend\\Application\\obj\\",
+        "outputPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj": {
-                "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj"
+              "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj": {
+                "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj"
               },
-              "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj"
+              "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj": {
+    "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj",
+        "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\CrushFire\\.nuget\\packages\\",
-        "outputPath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\obj\\",
+        "outputPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -165,14 +165,14 @@
         }
       }
     },
-    "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj": {
+    "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\CrushFire\\.nuget\\packages\\",
-        "outputPath": "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\obj\\",
+        "outputPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj": {
-                "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj"
+              "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj": {
+                "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj"
               }
             }
           }

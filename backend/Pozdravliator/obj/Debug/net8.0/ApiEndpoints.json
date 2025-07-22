@@ -181,6 +181,11 @@
         "IsRequired": false
       },
       {
+        "Name": "RemoveImage",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
         "Name": "id",
         "Type": "System.Int64",
         "IsRequired": true

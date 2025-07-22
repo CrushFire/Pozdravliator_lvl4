@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lfwcSZCMVp4=",
+  "dgSpecHash": "E9gf5Gl1yVQ=",
   "success": true,
-  "projectFilePath": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\Pozdravliator.csproj",
+  "projectFilePath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\Pozdravliator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CrushFire\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\CrushFire\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

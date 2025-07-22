@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CrushFire\\Pozdravliator\\backend\\",
+  "WorkspaceRootPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BF5935C-DFE4-43F4-9C0A-22B8F8FC8C2E}|Pozdravliator\\Pozdravliator.csproj|d:\\crushfire\\pozdravliator\\backend\\pozdravliator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C4B5C815-2FD1-4682-8F1E-C6B49629A319}|Application\\Application.csproj|d:\\crushfire\\pozdravliator\\pozdravliator_lvl4\\backend\\application\\services\\birthdayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B5C815-2FD1-4682-8F1E-C6B49629A319}|Application\\Application.csproj|solutionrelative:application\\services\\birthdayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082C227-3F70-4171-9477-2237D986D9DA}|Core\\Core.csproj|d:\\crushfire\\pozdravliator\\pozdravliator_lvl4\\backend\\core\\models\\birthday\\birthdayupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082C227-3F70-4171-9477-2237D986D9DA}|Core\\Core.csproj|solutionrelative:core\\models\\birthday\\birthdayupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B5C815-2FD1-4682-8F1E-C6B49629A319}|Application\\Application.csproj|d:\\crushfire\\pozdravliator\\pozdravliator_lvl4\\backend\\application\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B5C815-2FD1-4682-8F1E-C6B49629A319}|Application\\Application.csproj|solutionrelative:application\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF5935C-DFE4-43F4-9C0A-22B8F8FC8C2E}|Pozdravliator\\Pozdravliator.csproj|d:\\crushfire\\pozdravliator\\pozdravliator_lvl4\\backend\\pozdravliator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1BF5935C-DFE4-43F4-9C0A-22B8F8FC8C2E}|Pozdravliator\\Pozdravliator.csproj|solutionrelative:pozdravliator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 292,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +54,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirthdayUpdateRequest.cs",
+              "DocumentMoniker": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Models\\Birthday\\BirthdayUpdateRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Birthday\\BirthdayUpdateRequest.cs",
+              "ToolTip": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Models\\Birthday\\BirthdayUpdateRequest.cs",
+              "RelativeToolTip": "Core\\Models\\Birthday\\BirthdayUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:17:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ImageService.cs",
+              "ToolTip": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Services\\ImageService.cs",
+              "RelativeToolTip": "Application\\Services\\ImageService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:30:10.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BirthdayService.cs",
+              "DocumentMoniker": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Services\\BirthdayService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BirthdayService.cs",
+              "ToolTip": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Services\\BirthdayService.cs",
+              "RelativeToolTip": "Application\\Services\\BirthdayService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAGAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:29:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\appsettings.json",
+              "DocumentMoniker": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\appsettings.json",
               "RelativeDocumentMoniker": "Pozdravliator\\appsettings.json",
-              "ToolTip": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\appsettings.json",
+              "ToolTip": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\appsettings.json",
               "RelativeToolTip": "Pozdravliator\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-22T15:47:10.41Z",
               "EditorCaption": ""

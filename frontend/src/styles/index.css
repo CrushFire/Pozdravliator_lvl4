@@ -234,6 +234,49 @@ body {
   @apply bg-blue-800 hover:bg-blue-900 text-white font-semibold py-1 px-4 rounded-lg text-sm transition;
 }
 
+/* AddUpdateBirthday.css */
+/* Используем префикс auf- (add-update-form) */
+
+.auf-form {
+  @apply max-w-xl mx-auto p-8 bg-gradient-to-tr from-cyan-100 to-blue-200 rounded-2xl shadow-lg space-y-8;
+}
+
+.auf-heading {
+  @apply text-3xl font-extrabold text-cyan-800 mb-6 text-center tracking-wide drop-shadow-md;
+}
+
+.auf-input-group {
+  @apply flex flex-col space-y-1;
+}
+
+.auf-input {
+  @apply w-full rounded-lg border border-cyan-400 px-4 py-3 focus:outline-none focus:ring-4 focus:ring-cyan-300 transition shadow-sm;
+}
+
+.auf-file-input {
+  @apply w-full text-cyan-700;
+}
+
+.auf-preview-wrapper {
+  @apply relative mt-3 w-32 h-32 rounded-xl shadow-md border-4 border-cyan-400 overflow-hidden;
+}
+
+.auf-preview-img {
+  @apply w-full h-full object-cover;
+}
+
+.auf-remove-button {
+  @apply absolute top-1 right-1 bg-gray-400 text-white rounded-full w-5 h-5 flex items-center justify-center text-xs font-bold hover:bg-gray-600 transition;
+}
+
+.auf-submit-btn {
+  @apply w-full bg-cyan-600 hover:bg-cyan-700 text-white font-extrabold py-3 rounded-xl shadow-lg transition disabled:opacity-60 disabled:cursor-not-allowed;
+}
+
+.auf-cancel-btn {
+  @apply mt-4 w-full bg-gray-300 hover:bg-gray-400 text-gray-800 font-semibold py-2 rounded-xl shadow transition;
+}
+
 .dbc-btn-delete {
   @apply bg-red-500 text-white px-4 py-2 rounded-lg font-semibold cursor-pointer transition-colors duration-300 border-0 hover:bg-red-600;
 }

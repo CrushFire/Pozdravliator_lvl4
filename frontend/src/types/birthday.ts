@@ -8,11 +8,15 @@ export interface BirthdayResponse {
     dayBeforeBirthday: number;
 }
 
-export interface BirthdayAddUpdateRequest {
+export interface BirthdayAddRequest {
   name?: string;
   birthDate: string; // в формате YYYY-MM-DD
   imageFile?: File | null;
   type: string;
+}
+
+export interface BirthdayUpdateRequest extends BirthdayAddRequest {
+  removeImage: boolean;
 }
 
 export interface BirthdayFilterRequest {

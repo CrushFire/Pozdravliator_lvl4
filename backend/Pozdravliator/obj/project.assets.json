@@ -4503,11 +4503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\Pozdravliator.csproj",
+      "projectUniqueName": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\Pozdravliator.csproj",
       "projectName": "Pozdravliator",
-      "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\Pozdravliator.csproj",
+      "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\Pozdravliator.csproj",
       "packagesPath": "C:\\Users\\CrushFire\\.nuget\\packages\\",
-      "outputPath": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\",
+      "outputPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4529,14 +4529,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj": {
-              "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Application\\Application.csproj"
+            "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj": {
+              "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Application\\Application.csproj"
             },
-            "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj": {
-              "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\Core\\Core.csproj"
+            "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj": {
+              "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Core\\Core.csproj"
             },
-            "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\CrushFire\\Pozdravliator\\backend\\DataAccess\\DataAccess.csproj"
+            "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\DataAccess\\DataAccess.csproj"
             }
           }
         }

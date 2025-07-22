@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g6CLemoyWkaxhlMc9ftQlMSPSwEKDDK2SdcaYtE9F2s=",
+  "Hash": "NeTSZZg55h+PmQDKMS3issxh6N+Gim1jvWnHTZYOckE=",
   "Source": "Pozdravliator",
   "BasePath": "_content/Pozdravliator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Pozdravliator\\wwwroot",
       "Source": "Pozdravliator",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pozdravliator.styles.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pozdravliator.styles.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "Pozdravliator.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pozdravliator.styles.css"
+      "OriginalItemSpec": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pozdravliator.styles.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pozdravliator.bundle.scp.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pozdravliator.bundle.scp.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "Pozdravliator.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pozdravliator.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pozdravliator.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\css\\site.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\favicon.ico",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,67 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\02490480-5a48-4b37-807a-60a8afb921a9.webp",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
+      "BasePath": "_content/Pozdravliator",
+      "RelativePath": "images/02490480-5a48-4b37-807a-60a8afb921a9.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\02490480-5a48-4b37-807a-60a8afb921a9.webp"
+    },
+    {
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\048b530b-683d-41ae-ad35-fd611f77ec81.webp",
+      "SourceId": "Pozdravliator",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
+      "BasePath": "_content/Pozdravliator",
+      "RelativePath": "images/048b530b-683d-41ae-ad35-fd611f77ec81.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\048b530b-683d-41ae-ad35-fd611f77ec81.webp"
+    },
+    {
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\13fc264a-70d7-46f8-b9dd-eedcd3320af9.webp",
+      "SourceId": "Pozdravliator",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
+      "BasePath": "_content/Pozdravliator",
+      "RelativePath": "images/13fc264a-70d7-46f8-b9dd-eedcd3320af9.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\13fc264a-70d7-46f8-b9dd-eedcd3320af9.webp"
+    },
+    {
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg",
+      "SourceId": "Pozdravliator",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg",
       "AssetKind": "All",
@@ -112,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4ab6d3e9-8d93-499e-914f-f9c5ec3f1a28.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg",
       "AssetKind": "All",
@@ -131,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\671c8bc2-67fd-48fd-9ed6-727a437bac53.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\6db5c089-c83a-44a8-be69-6105d12312bd.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\6db5c089-c83a-44a8-be69-6105d12312bd.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/6db5c089-c83a-44a8-be69-6105d12312bd.jpg",
       "AssetKind": "All",
@@ -150,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6db5c089-c83a-44a8-be69-6105d12312bd.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\79e0e847-f017-4454-b86f-a21a643b02ef.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\79e0e847-f017-4454-b86f-a21a643b02ef.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/79e0e847-f017-4454-b86f-a21a643b02ef.jpg",
       "AssetKind": "All",
@@ -169,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\79e0e847-f017-4454-b86f-a21a643b02ef.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg",
       "AssetKind": "All",
@@ -188,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9e0636fc-62aa-47c3-9481-22409a0bc5d0.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg",
       "AssetKind": "All",
@@ -207,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b9f4d381-0e52-4657-9ba2-3446f3f4b119.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg",
       "AssetKind": "All",
@@ -226,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c637a931-9817-4d5e-ae9a-6c0c98f940ab.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\df031cda-8643-4042-b3fe-76bae98ceb87.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\df031cda-8643-4042-b3fe-76bae98ceb87.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/df031cda-8643-4042-b3fe-76bae98ceb87.jpg",
       "AssetKind": "All",
@@ -245,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\df031cda-8643-4042-b3fe-76bae98ceb87.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\images\\e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\images\\e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "images/e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg",
       "AssetKind": "All",
@@ -264,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e6b8aaa1-b792-49b6-a318-d1d05b614e77.jpg"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\js\\site.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -283,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -302,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -321,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -340,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -359,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -378,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -397,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -416,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -435,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -454,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -473,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -492,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -511,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -530,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -549,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -568,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -587,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -606,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -625,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -644,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -663,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -682,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -701,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -720,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -739,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -758,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -777,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -796,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -815,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -834,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -853,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -872,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -891,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -910,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -929,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -948,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -967,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1005,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1024,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1043,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1062,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1081,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1100,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1119,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1138,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1157,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1176,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1195,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1214,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1233,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1252,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1271,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1290,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1309,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1328,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1347,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Pozdravliator",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\backend\\Pozdravliator\\wwwroot\\",
+      "ContentRoot": "D:\\CrushFire\\Pozdravliator\\Pozdravliator_lvl4\\backend\\Pozdravliator\\wwwroot\\",
       "BasePath": "_content/Pozdravliator",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

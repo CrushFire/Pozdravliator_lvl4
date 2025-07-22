@@ -22,3 +22,16 @@ D:\CrushFire\Pozdravliator\backend\Core\obj\Debug\net8.0\Core.dll
 D:\CrushFire\Pozdravliator\backend\Core\obj\Debug\net8.0\refint\Core.dll
 D:\CrushFire\Pozdravliator\backend\Core\obj\Debug\net8.0\Core.pdb
 D:\CrushFire\Pozdravliator\backend\Core\obj\Debug\net8.0\ref\Core.dll
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\bin\Debug\net8.0\Core.deps.json
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\bin\Debug\net8.0\Core.dll
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\bin\Debug\net8.0\Core.pdb
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.dll
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\refint\Core.dll
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\Core.pdb
+D:\CrushFire\Pozdravliator\Pozdravliator_lvl4\backend\Core\obj\Debug\net8.0\ref\Core.dll

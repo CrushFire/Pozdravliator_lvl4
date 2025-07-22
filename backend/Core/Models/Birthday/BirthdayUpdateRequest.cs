@@ -18,5 +18,6 @@ namespace Core.Models.Birthday
         public IFormFile? ImageFile { get; set; }
         [TypeValidator]
         public string Type { get; set; }
+        public bool RemoveImage { get; set; }
     }
 }

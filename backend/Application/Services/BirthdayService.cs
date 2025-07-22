@@ -40,6 +40,7 @@ namespace Application.Services
             var birthdays = await _context.Birthdays
                 .Where(x => x.UserId == userId)
                 .Where(x => new DateTime(today.Year, x.BirthDate.Month, x.BirthDate.Day) >= today)
+                .OrderBy(x => x.Name)
                 .OrderBy(x => new DateTime(today.Year, x.BirthDate.Month, x.BirthDate.Day))
                 .Skip(pag.PageSize * (pag.Page - 1))
                 .Take(pag.PageSize)
@@ -90,10 +91,14 @@ namespace Application.Services
             {
                 newFile = await _imageService.AddUploadedImagesAsync(req.ImageFile);
             }
-            else if (birthday.Image != null && req.ImageFile == null)
+            else if (birthday.Image != null && req.ImageFile == null && req.RemoveImage)
             {
                 _imageService.RemoveImageFromServer(birthday.Image);
                 newFile = null;
+            }
+            else if (birthday.Image != null && req.ImageFile == null && !req.RemoveImage)
+            {
+                newFile = birthday.Image;
             }
             birthday.Image = newFile;
             birthday.Type = req.Type;
